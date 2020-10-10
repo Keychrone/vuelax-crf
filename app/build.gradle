@@ -10,4 +10,7 @@ android {
         applicationId "com.ssharanyab.coinedone"
         minSdk 21
         targetSdk 31
-        versionCode 
+        versionCode 1
+        versionName "1.0"
+
+        testIns
