@@ -7,4 +7,5 @@ android {
     compileSdk 31
 
     defaultConfig {
-        appl
+        applicationId "com.ssharanyab.coinedone"
+        min
