@@ -13,4 +13,4 @@ android {
         versionCode 1
         versionName "1.0"
 
-        testIns
+        testInstrumentationRunner "androidx.test.runner.Andro
