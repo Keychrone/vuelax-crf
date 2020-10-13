@@ -19,4 +19,4 @@ android {
     buildTypes {
         release {
             minifyEnabled false
-            proguardFiles getDefaultProguardFi
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rule
