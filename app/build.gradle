@@ -23,4 +23,5 @@ android {
         }
     }
     compileOptions {
-        sourc
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targ
