@@ -37,4 +37,5 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.4.1'
     implementation 'com.github.Amir-yazdanmanesh:Accessibility-Service-Browser-URL-Filter:1.0.3'
     implementation 'com.google.android.material:material:1.5.0'
-    implementation 'androidx.constraintlayout:
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.3'
+//    implementation 'com.
