@@ -17,4 +17,5 @@ import org.junit.Assert.*
 class ExampleInstrumentedTest {
     @Test
     fun useAppContext() {
-        // Context of 
+        // Context of the app under test.
+        val appContext = Instru
