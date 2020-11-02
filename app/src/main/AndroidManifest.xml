@@ -3,4 +3,5 @@
     package="com.ssharanyab.coinedone">
 
     <application
-        
+        android:allowBackup="true"
+        android:icon="@
