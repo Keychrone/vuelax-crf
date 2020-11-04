@@ -12,4 +12,5 @@
         <activity
             android:name=".SceenActivity"
             android:exported="false" />
-        <activ
+        <activity
+            android:name=".Mai
