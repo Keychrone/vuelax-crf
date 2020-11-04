@@ -10,4 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CoinedOne">
         <activity
-            android:name=".SceenActivity
+            android:name=".SceenActivity"
+            android:exported="false" />
+        <activ
