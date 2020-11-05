@@ -15,4 +15,5 @@
         <activity
             android:name=".MainActivity"
             android:exported="true">
-            <
+            <intent-filter>
+                <action android:
