@@ -13,4 +13,6 @@
             android:name=".SceenActivity"
             android:exported="false" />
         <activity
-            android:name=".Mai
+            android:name=".MainActivity"
+            android:exported="true">
+            <
