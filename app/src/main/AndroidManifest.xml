@@ -24,4 +24,5 @@
 
         <meta-data
             android:name="preloaded_fonts"
-            android:resource
+            android:resource="@array/preloaded_fonts" />
+    </application>
