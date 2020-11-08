@@ -1,3 +1,4 @@
 package com.ssharanyab.coinedone
 
-import an
+import android.annotation.SuppressLint
+import android.content.Intent
