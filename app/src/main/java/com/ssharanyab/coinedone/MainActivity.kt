@@ -10,4 +10,6 @@ import androidx.appcompat.app.ActionBar
 import androidx.appcompat.app.AppCompatActivity
 import android.accessibilityservice.AccessibilityService
 import android.accessibilityservice.AccessibilityServiceInfo
-import android.content.
+import android.content.Context
+
+import com.yazdanmanesh.url_resteriction.Acces
