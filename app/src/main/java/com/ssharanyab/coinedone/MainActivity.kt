@@ -17,4 +17,4 @@ import android.provider.Settings
 import android.view.accessibility.AccessibilityManager
 import android.widget.Toast
 
-import com.yazdan
+import com.yazdanmanesh.url_resteriction.MyAccessibilit
