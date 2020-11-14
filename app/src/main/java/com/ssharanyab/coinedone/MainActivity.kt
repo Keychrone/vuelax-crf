@@ -19,4 +19,6 @@ import android.widget.Toast
 
 import com.yazdanmanesh.url_resteriction.MyAccessibilityService
 
-class MainActivity : AppCompatActivity(
+class MainActivity : AppCompatActivity() {
+    @SuppressLint("WrongViewCast")
+    ov
