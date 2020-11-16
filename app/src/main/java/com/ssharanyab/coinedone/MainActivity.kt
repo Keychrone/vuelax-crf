@@ -22,4 +22,6 @@ import com.yazdanmanesh.url_resteriction.MyAccessibilityService
 class MainActivity : AppCompatActivity() {
     @SuppressLint("WrongViewCast")
     override fun onCreate(savedInstanceState: Bundle?) {
-        val actionBar: ActionBar? = supportAction
+        val actionBar: ActionBar? = supportActionBar
+        if (actionBar != null) {
+            actionB
