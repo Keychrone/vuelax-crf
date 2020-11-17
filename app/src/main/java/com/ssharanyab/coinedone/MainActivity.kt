@@ -24,4 +24,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         val actionBar: ActionBar? = supportActionBar
         if (actionBar != null) {
-            actionB
+            actionBar.hide()
+        }
+
+        super.onCrea
