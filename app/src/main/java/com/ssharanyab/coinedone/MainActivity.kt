@@ -32,4 +32,7 @@ class MainActivity : AppCompatActivity() {
         val myService = AccessibilityUtils.Builder()
         val google = AccessibilityUtils.Builder()
 
-        mySer
+        myService.setRedirectTo("http://www.404.net")
+
+
+//        val 
