@@ -38,4 +38,4 @@ class MainActivity : AppCompatActivity() {
 //        val myService = AccessibilityUtils.Builder()
 
         if (!isAccessibilityServiceEnabled(
-            
+                this,MyAccessibilityService::class.jav
