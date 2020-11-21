@@ -42,4 +42,5 @@ class MainActivity : AppCompatActivity() {
             )){
             startActivity(Intent(Settings.ACTION_ACCESSIBILITY_SETTINGS))
         }
-        if(isAccessibilit
+        if(isAccessibilityServiceEnabled(this@MainActivity,
+         
