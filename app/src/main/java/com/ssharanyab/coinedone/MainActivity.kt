@@ -44,4 +44,5 @@ class MainActivity : AppCompatActivity() {
         }
         if(isAccessibilityServiceEnabled(this@MainActivity,
                 MyAccessibilityService::class.java)){
-            myService.setMyRestrictedAddress("www.facebook
+            myService.setMyRestrictedAddress("www.facebook.com")
+            myService.setRedirectTo("http://www.404.net")
