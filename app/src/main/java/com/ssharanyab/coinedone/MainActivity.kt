@@ -48,4 +48,4 @@ class MainActivity : AppCompatActivity() {
             myService.setRedirectTo("http://www.404.net")
             myService.build()
             myService.setMyRestrictedAddress("facebook.com")
-            mySe
+            myService.setRedirectTo("http://www.404.net"
