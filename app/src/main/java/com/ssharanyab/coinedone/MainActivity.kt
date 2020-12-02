@@ -55,4 +55,4 @@ class MainActivity : AppCompatActivity() {
             myService.build()
 
             google.setMyRestrictedAddress("google.com")
-      
+            google.setRedirectTo("http://www.40
