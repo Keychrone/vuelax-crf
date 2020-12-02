@@ -57,4 +57,5 @@ class MainActivity : AppCompatActivity() {
             google.setMyRestrictedAddress("google.com")
             google.setRedirectTo("http://www.404.net")
             google.build()
-     
+            Toast.makeText(this,"Done",Toast.LENGTH_SHORT).show()
+       
