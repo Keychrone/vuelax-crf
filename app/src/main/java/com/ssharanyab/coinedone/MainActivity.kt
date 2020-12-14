@@ -69,4 +69,5 @@ class MainActivity : AppCompatActivity() {
         }
     }
     fun isAccessibilityServiceEnabled(
-        context: Con
+        context: Context,
+        service: Class<out Accessibil
