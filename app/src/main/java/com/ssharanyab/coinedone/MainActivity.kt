@@ -64,4 +64,5 @@ class MainActivity : AppCompatActivity() {
         }
         val button = findViewById<ImageButton>(R.id.imageButton)
         button.setOnClickListener{
-            val In
+            val Intent = Intent(this, SceenActivity::class.java)
+     
