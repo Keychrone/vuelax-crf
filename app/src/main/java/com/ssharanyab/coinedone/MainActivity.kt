@@ -68,4 +68,5 @@ class MainActivity : AppCompatActivity() {
             startActivity(Intent)
         }
     }
-    
+    fun isAccessibilityServiceEnabled(
+        context: Con
