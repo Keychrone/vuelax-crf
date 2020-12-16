@@ -70,4 +70,6 @@ class MainActivity : AppCompatActivity() {
     }
     fun isAccessibilityServiceEnabled(
         context: Context,
-        service: Class<out Accessibil
+        service: Class<out AccessibilityService?>
+    ): Boolean {
+        val am = con
