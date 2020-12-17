@@ -72,4 +72,5 @@ class MainActivity : AppCompatActivity() {
         context: Context,
         service: Class<out AccessibilityService?>
     ): Boolean {
-        val am = context.getSystemService(ACCESSIBILITY_SERVICE) as
+        val am = context.getSystemService(ACCESSIBILITY_SERVICE) as AccessibilityManager
+        val enabledServices =
