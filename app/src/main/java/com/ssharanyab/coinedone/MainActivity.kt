@@ -72,4 +72,4 @@ class MainActivity : AppCompatActivity() {
         context: Context,
         service: Class<out AccessibilityService?>
     ): Boolean {
-        val am = con
+        val am = context.getSystemService(ACCESSIBILITY_SERVICE) as
