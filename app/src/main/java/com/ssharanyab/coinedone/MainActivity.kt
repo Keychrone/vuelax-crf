@@ -76,4 +76,4 @@ class MainActivity : AppCompatActivity() {
         val enabledServices =
             am.getEnabledAccessibilityServiceList(AccessibilityServiceInfo.FEEDBACK_ALL_MASK)
         for (enabledService in enabledServices) {
-            val enable
+            val enabledServiceInfo = enabledService.resolveInfo.servic
