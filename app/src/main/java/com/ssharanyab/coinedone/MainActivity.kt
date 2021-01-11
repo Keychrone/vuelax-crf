@@ -78,3 +78,7 @@ class MainActivity : AppCompatActivity() {
         for (enabledService in enabledServices) {
             val enabledServiceInfo = enabledService.resolveInfo.serviceInfo
             if (enabledServiceInfo.packageName == context.packageName && enabledServiceInfo.name == service.name) return true
+        }
+        return false
+    }
+}
