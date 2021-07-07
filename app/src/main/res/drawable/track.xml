@@ -2,4 +2,5 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
 <item android:state_checked="true">
     <shape android:shape="rectangle">
-       
+        <solid android:color="#363636"/>
+        <corners 
