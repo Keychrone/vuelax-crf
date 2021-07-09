@@ -3,4 +3,6 @@
 <item android:state_checked="true">
     <shape android:shape="rectangle">
         <solid android:color="#363636"/>
-        <corners 
+        <corners android:radius="100dp"/>
+
+        <size android
