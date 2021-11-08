@@ -8,4 +8,5 @@
 
     <TextView
         android:id="@+id/sheduleText"
-        an
+        android:layout_width="wrap_content"
+        andro
