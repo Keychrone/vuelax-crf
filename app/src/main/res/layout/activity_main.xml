@@ -12,4 +12,5 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="76dp"
         android:layout_marginTop="30dp"
-        android:layout
+        android:layout_marginEnd="91dp"
+        android:fontF
