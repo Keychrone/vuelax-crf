@@ -24,3 +24,5 @@
 
     <ImageButton
         android:id="@+id/imageButton"
+        android:layout_width="wrap_content"
+       
