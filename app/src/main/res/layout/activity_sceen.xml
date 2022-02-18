@@ -16,4 +16,6 @@
         android:fontFamily="@font/sen"
         android:text="@string/schedule"
         android:textColor="#022742"
-        android:textSiz
+        android:textSize="36sp"
+        android:textStyle="bold"
+    
