@@ -32,4 +32,5 @@
         android:textSize="36sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="pa
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constrai
