@@ -39,3 +39,5 @@
         android:id="@+id/switch1"
         android:layout_width="104dp"
         android:layout_height="48dp"
+        android:minHeight="33dp"
+       
