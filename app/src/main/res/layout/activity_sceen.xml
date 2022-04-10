@@ -41,4 +41,5 @@
         android:layout_height="48dp"
         android:minHeight="33dp"
         android:switchMinWidth="104dp"
-        android:thum
+        android:thumb="@drawable/thumb"
+        android:track="@dr
