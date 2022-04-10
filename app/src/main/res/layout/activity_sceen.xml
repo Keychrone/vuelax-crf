@@ -42,4 +42,5 @@
         android:minHeight="33dp"
         android:switchMinWidth="104dp"
         android:thumb="@drawable/thumb"
-        android:track="@dr
+        android:track="@drawable/track"
+        app:layout_constraintBottom_toTopOf="@+
