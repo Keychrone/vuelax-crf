@@ -43,4 +43,5 @@
         android:switchMinWidth="104dp"
         android:thumb="@drawable/thumb"
         android:track="@drawable/track"
-        app:layout_constraintBottom_toTopOf="@+
+        app:layout_constraintBottom_toTopOf="@+id/details"
+        app:layout_constraintEnd_toEndOf
