@@ -45,4 +45,5 @@
         android:track="@drawable/track"
         app:layout_constraintBottom_toTopOf="@+id/details"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toSt
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBot
