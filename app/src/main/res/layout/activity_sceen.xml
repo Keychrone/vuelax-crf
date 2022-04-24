@@ -53,4 +53,5 @@
         android:id="@+id/details"
         android:layout_width="266dp"
         android:layout_height="57dp"
-        android:fontF
+        android:fontFamily="@font/carme"
+        android:text="@string/detai
