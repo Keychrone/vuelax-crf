@@ -54,4 +54,6 @@
         android:layout_width="266dp"
         android:layout_height="57dp"
         android:fontFamily="@font/carme"
-        android:text="@string/detai
+        android:text="@string/details"
+        android:textColor="#000000"
+   
