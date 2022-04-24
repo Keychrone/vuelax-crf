@@ -52,4 +52,5 @@
     <TextView
         android:id="@+id/details"
         android:layout_width="266dp"
-        an
+        android:layout_height="57dp"
+        android:fontF
