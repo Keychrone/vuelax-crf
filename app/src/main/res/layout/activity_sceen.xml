@@ -63,4 +63,5 @@
         tools:ignore="SpeakableTextPresentCheck" />
 
     <TextView
-     
+        android:id="@+id/whitelist"
+        android:layou
