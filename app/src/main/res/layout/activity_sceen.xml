@@ -64,4 +64,6 @@
 
     <TextView
         android:id="@+id/whitelist"
-        android:layou
+        android:layout_width="63dp"
+        android:layout_height="15dp"
+    
