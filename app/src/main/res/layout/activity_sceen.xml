@@ -68,4 +68,5 @@
         android:layout_height="15dp"
         android:fontFamily="@font/sen"
         android:lineSpacingExtra="16sp"
-        android:text="@string/w
+        android:text="@string/whitelist"
+        app:layout_constraintBottom_toTopOf="@+id/
