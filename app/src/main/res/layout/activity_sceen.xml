@@ -69,4 +69,5 @@
         android:fontFamily="@font/sen"
         android:lineSpacingExtra="16sp"
         android:text="@string/whitelist"
-        app:layout_constraintBottom_toTopOf="@+id/
+        app:layout_constraintBottom_toTopOf="@+id/details"
+        app:layout_constraintEnd_toStartOf=
