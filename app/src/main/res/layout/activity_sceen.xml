@@ -71,4 +71,5 @@
         android:text="@string/whitelist"
         app:layout_constraintBottom_toTopOf="@+id/details"
         app:layout_constraintEnd_toStartOf="@+id/switch1"
-        app:layout_constraintHorizontal_b
+        app:layout_constraintHorizontal_bias="0.466"
+        app:layout_constraintStart_toStartO
