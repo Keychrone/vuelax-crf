@@ -70,4 +70,5 @@
         android:lineSpacingExtra="16sp"
         android:text="@string/whitelist"
         app:layout_constraintBottom_toTopOf="@+id/details"
-        app:layout_constraintEnd_toStartOf=
+        app:layout_constraintEnd_toStartOf="@+id/switch1"
+        app:layout_constraintHorizontal_b
