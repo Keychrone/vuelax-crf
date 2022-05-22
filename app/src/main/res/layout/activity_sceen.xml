@@ -72,4 +72,5 @@
         app:layout_constraintBottom_toTopOf="@+id/details"
         app:layout_constraintEnd_toStartOf="@+id/switch1"
         app:layout_constraintHorizontal_bias="0.466"
-        app:layout_constraintStart_toStartO
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBot
