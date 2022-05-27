@@ -73,4 +73,7 @@
         app:layout_constraintEnd_toStartOf="@+id/switch1"
         app:layout_constraintHorizontal_bias="0.466"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBot
+        app:layout_constraintTop_toBottomOf="@+id/mode" />
+
+    <TextView
+        android:
