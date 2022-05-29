@@ -77,4 +77,6 @@
 
     <TextView
         android:id="@+id/blacklist"
-        android:layout_width="
+        android:layout_width="61dp"
+        android:layout_height="15dp"
+        android:fontFami
