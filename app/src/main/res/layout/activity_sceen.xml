@@ -76,4 +76,5 @@
         app:layout_constraintTop_toBottomOf="@+id/mode" />
 
     <TextView
-        android:
+        android:id="@+id/blacklist"
+        android:layout_width="
