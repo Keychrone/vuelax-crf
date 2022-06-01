@@ -80,4 +80,5 @@
         android:layout_width="61dp"
         android:layout_height="15dp"
         android:fontFamily="@font/sen"
-        android:text="@string/black
+        android:text="@string/blacklist"
+        app:layout_constraintBottom_toTopOf="@
