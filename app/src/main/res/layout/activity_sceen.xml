@@ -81,4 +81,5 @@
         android:layout_height="15dp"
         android:fontFamily="@font/sen"
         android:text="@string/blacklist"
-        app:layout_constraintBottom_toTopOf="@
+        app:layout_constraintBottom_toTopOf="@+id/details"
+        app:layout_constraintEnd_toEndOf="parent"
