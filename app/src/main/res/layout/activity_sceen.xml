@@ -79,4 +79,5 @@
         android:id="@+id/blacklist"
         android:layout_width="61dp"
         android:layout_height="15dp"
-        android:fontFami
+        android:fontFamily="@font/sen"
+        android:text="@string/black
