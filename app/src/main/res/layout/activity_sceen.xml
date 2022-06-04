@@ -83,3 +83,4 @@
         android:text="@string/blacklist"
         app:layout_constraintBottom_toTopOf="@+id/details"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/sw
