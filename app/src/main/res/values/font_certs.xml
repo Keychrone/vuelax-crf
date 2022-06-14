@@ -2,4 +2,4 @@
 <resources>
     <array name="com_google_android_gms_fonts_certs">
         <item>@array/com_google_android_gms_fonts_certs_dev</item>
-        <item>@
+        <item>@array/com_google_android_gms_fonts_ce
