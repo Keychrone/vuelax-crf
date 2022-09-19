@@ -4,4 +4,5 @@
     <string name="mode">Mode</string>
     <string name="details">" "</string>
     <string name="whitelist">Whitelist</string>
-    <string n
+    <string name="blacklist">Blacklist</string>
+</resources>
