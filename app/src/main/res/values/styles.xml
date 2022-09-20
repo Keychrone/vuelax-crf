@@ -3,4 +3,5 @@
 
     <style name="schedule">
 
-        <ite
+        <item name="android:textSize">
+            36
