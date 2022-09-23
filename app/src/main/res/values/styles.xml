@@ -4,4 +4,7 @@
     <style name="schedule">
 
         <item name="android:textSize">
-            36
+            36sp
+        </item>
+
+        <item name="a
