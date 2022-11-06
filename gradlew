@@ -21,3 +21,6 @@
 ##  Gradle start up script for UN*X
 ##
 ##############################################################################
+
+# Attempt to set APP_HOME
+# Resolve links: $
