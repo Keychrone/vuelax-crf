@@ -36,4 +36,6 @@ while [ -h "$PRG" ] ; do
     fi
 done
 SAVED="`pwd`"
-cd
+cd "`dirname \"$PRG\"`/" >/dev/null
+APP_HOME="`pwd -P`"
+cd "$SAVED" 
