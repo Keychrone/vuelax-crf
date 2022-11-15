@@ -54,4 +54,10 @@ warn () {
 }
 
 die () {
-  
+    echo
+    echo "$*"
+    echo
+    exit 1
+}
+
+# OS s
