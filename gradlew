@@ -61,4 +61,8 @@ die () {
 }
 
 # OS specific support (must be 'true' or 'false').
-cygw
+cygwin=false
+msys=false
+darwin=false
+nonstop=false
+case "`unam
