@@ -60,4 +60,5 @@ die () {
     exit 1
 }
 
-# OS s
+# OS specific support (must be 'true' or 'false').
+cygw
