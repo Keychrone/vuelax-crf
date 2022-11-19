@@ -78,4 +78,6 @@ case "`uname`" in
   NONSTOP* )
     nonstop=true
     ;;
-esa
+esac
+
+CLASSPATH=$APP_HOME/gradle/wrapper/gradle-wrap
