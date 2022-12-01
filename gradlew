@@ -121,4 +121,4 @@ if [ "$cygwin" = "false" -a "$darwin" = "false" -a "$nonstop" = "false" ] ; then
     fi
 fi
 
-# For
+# For Darwin, add options to specify how the application appea
