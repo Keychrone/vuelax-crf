@@ -158,4 +158,6 @@ if [ "$cygwin" = "true" -o "$msys" = "true" ] ; then
         fi
         i=`expr $i + 1`
     done
-    case 
+    case $i in
+        0) set -- ;;
+        1) set -- "
