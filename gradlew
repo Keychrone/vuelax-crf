@@ -172,4 +172,6 @@ if [ "$cygwin" = "true" -o "$msys" = "true" ] ; then
     esac
 fi
 
-# Escape appli
+# Escape application args
+save () {
+    for i do printf %s\\n "$i" | sed 
