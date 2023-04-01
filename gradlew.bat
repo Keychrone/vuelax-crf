@@ -78,4 +78,4 @@ set CLASSPATH=%APP_HOME%\gradle\wrapper\gradle-wrapper.jar
 if "%ERRORLEVEL%"=="0" goto mainEnd
 
 :fail
-r
+rem Set variable GRADLE_EXIT_CONSOLE if you need th
